@@ -1,0 +1,37 @@
+.s {
+    border-color: black;
+    border-width: 3.5px;
+    border-style: solid;
+
+}
+
+.s1 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+div {
+    text-align: center;
+}
+
+.sSlider {
+    height: 200px;
+}
+
+.baner {
+    margin-inline: 5px;
+    height: 120px;
+}
+
+.side {
+    height: 230px;
+    margin-inline: 5px;
+}
+
+.header {
+    margin-inline: 5px;
+}
+
+.footer {
+    height: 180px;
+}
